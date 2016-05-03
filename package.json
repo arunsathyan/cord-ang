@@ -1,7 +1,11 @@
 {
   "name": "generator-cord-ang",
   "version": "0.0.0",
+<<<<<<< HEAD
   "description": "Cordova Angular generator",
+=======
+  "description": "Cordova Angular Generator",
+>>>>>>> 4c241fae1fa5d9d6817adaa5b85121c8a7aacdb3
   "homepage": "https://github.com/arunsathyan/cord-ang",
   "author": {
     "name": "Arun Sathyan",
@@ -13,10 +17,17 @@
   ],
   "main": "generators\\index.js",
   "keywords": [
+<<<<<<< HEAD
     "Cordova",
     "generator",
     "angular",
     "yo",
+=======
+    "cordova",
+    "generator",
+    "angular",
+    "yo ",
+>>>>>>> 4c241fae1fa5d9d6817adaa5b85121c8a7aacdb3
     "yeoman-generator"
   ],
   "dependencies": {
@@ -45,7 +56,11 @@
       "mocha": true
     }
   },
+<<<<<<< HEAD
   "repository": "arunsathyan/generator-cord-ang",
+=======
+  "repository": "https://github.com/arunsathyan/cord-ang.git",
+>>>>>>> 4c241fae1fa5d9d6817adaa5b85121c8a7aacdb3
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
